@@ -1,0 +1,1 @@
+fp = file('D:\\pysult.html','wb')
